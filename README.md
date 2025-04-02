@@ -14,7 +14,9 @@ A comprehensive bash script to discover all domains, subdomains, and IPs associa
    bash
 # Install dependencies
 sudo apt install jq curl
+
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 
 # Make script executable
