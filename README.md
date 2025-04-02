@@ -22,6 +22,7 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 # Make script executable
 chmod +x domain_finder.sh
                           
+
 #Usage
 ./domain_finder.sh TargetName
 
