@@ -1,7 +1,7 @@
 # Domain_Discovery
 # Domain Finder - Full Discovery Tool
 
-A comprehensive bash script to discover all domains, subdomains, and IPs associated with a common name.
+A comprehensive bash script to discover all domains, subdomains, and IPs associated with a common name. Basic tool with a fixed function.
 
 ## Features
 - Certificate Transparency log searching
